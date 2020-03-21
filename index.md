@@ -43,15 +43,15 @@
                          <img src="assets/images/symmetry-3-logo-256x256.png" alt="symmetry 3 logo" title="symmetry 3 logo" style="height: 8rem;">
                     </a>
                 </span>
-                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-1" href="https://mobirise.co">SYMMETRY 3</a></span>
+                <span class="navbar-caption-wrap"><a class="navbar-caption text-white display-1" href="http://www.symmetry-3.com">SYMMETRY 3</a></span>
             </div>
         </div>
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true"><li class="nav-item">
-                    <a class="nav-link link text-white display-4" href="https://mobirise.co">
+                    <a class="nav-link link text-white display-4" href="http://www.symmetry-3.com/about">
                         </a>
                 </li></ul>
-            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-info display-4" href="https://mobirise.co">
+            <div class="navbar-buttons mbr-section-btn"><a class="btn btn-sm btn-info display-4" href="http://www.symmetry-3.com/about">
                     
                     ABOUT</a></div>
         </div>
